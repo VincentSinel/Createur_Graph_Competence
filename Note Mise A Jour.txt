@@ -1,39 +1,12 @@
-╔══════════════════════════════════════════╗
-║ ReactTennis                V1.2.0.0      ║
-║ Sinel V.  2018                           ║
-╠══════════════════════════════════════════╝
-╠═══════════════════════════════════╗
-║Derniere Mise a jour : V. 1.2.0.0  ║
-╠═══════════════════════════════════╝
+╔═══════════════════════════════════════════╗
+║ Createur Graph Compétence         V1.0    ║
+║ Sinel V.  2019                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.0  ║
+╠═══════════════════════════════╝
 ║
-║	- Ajout de l'exercice couleur en ligne.
-║	- Correction d'affichage du texte "Fin d'exercice".
-║	- Les seconde lors du pleine écran sont désormais de vraie seconde 
-║     (temps de calcul pris en compte dans le temps d'attente des boucles).
-║
-╠═══════════════════════════════════╗
-║Ancienne Mise a jour : V. 1.1.0.0  ║
-╠═══════════════════════════════════╝
-║
-║	- Ajout des sons.
-║	- Ajout de la création de paramètre favori.
-║	- Ajout de la création d'un historique des paramètres.
-║
-╠═══════════════════════════════════╗
-║Mise en ligne : V. 1.0.0.0         ║
-╠═══════════════════════════════════╝
-║
-║	- 6 type d'exercice disponible.
-║	- Reglage du temps d'action.
-║	- Reglage du temps de pause entre deux actions.
-║	- Reglage du temps de pause entre deux serie d'actions.
-║	- Creation d'exercice infini.
-║	- Reglage simple pour chaque type d'exercices.
-║
-╠════════════════════════════════╗
-║A Venir  (Fix et nouveautes) :  ║
-╠════════════════════════════════╝
-║
+║	- Creation du logiciel.
 ║
 ╠═════════════════════════════╗
 ║Contact :                    ║
